@@ -7,16 +7,12 @@ File uploader with progressbar. Written in Vue and PHP.
 ```
 npm install
 ```
-Move `backend` folder content to HTTP Server with PHP installed.
+- Build project with `npm run build` command.
+- Move `dist` and `backend` folders' content to HTTP Server with PHP installed.
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
 ### Preview
